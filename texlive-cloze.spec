@@ -1,6 +1,6 @@
 Name:		texlive-cloze
 Version:	55763
-Release:	1
+Release:	2
 Summary:	A LuaLaTeX package for creating cloze texts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cloze
