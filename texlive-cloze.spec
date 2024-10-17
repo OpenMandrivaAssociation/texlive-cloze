@@ -3,7 +3,7 @@ Version:	55763
 Release:	2
 Summary:	A LuaLaTeX package for creating cloze texts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cloze
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cloze
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cloze.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cloze.doc.r%{version}.tar.xz
